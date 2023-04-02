@@ -5,6 +5,7 @@
 `1.0.0`
 
 - ✨ Can do basic stuff
+- ✨ Work in both xammp & php serve command
 - ✅ Sql file is included in root folder
 - ⚠️ Sql file contain users table & overall table, so you need to import the sql file into your database
 - ⚠️ You will also need change the database name in Models\Database.php file,
