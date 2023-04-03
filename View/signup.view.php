@@ -1,4 +1,4 @@
-<form class="pb-4 px-3 mx-auto bg-white h-100 d-flex flex-column shadow-2 justify-content-center" method="post" action="/login" style="max-width: 400px !important;">
+<form class="pb-4 px-3 mx-auto bg-white h-100 d-flex flex-column shadow-2 justify-content-center" method="post" action="/signup" style="max-width: 400px !important;">
     <div class="d-flex justify-content-center py-4 align-items-center">
         <div class="rounded-circle bg-primary d-flex justify-content-center align-items-center" style="min-width: 70px;min-height: 70px;">
             <i class="fa-solid fa-rocket fa-2x text-light"></i>

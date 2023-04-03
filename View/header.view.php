@@ -10,7 +10,6 @@
                     let totalBalanceFormat = BalanceFormatter.format(
                         <?= $totalBalance ?>
                     );
-
                     document.write(totalBalanceFormat);
                 </script>
             </div>
